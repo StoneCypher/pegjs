@@ -12,6 +12,7 @@ module.exports = {
 
         "no-duplicate-imports": [ "error", { "includeExports": false } ],
         "no-eval": 0,
+        "linebreak-style": 0,
 
     },
 
